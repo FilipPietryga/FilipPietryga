@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FilipPietryga
-- 👀 I’m interested in unity programming and vector graphics
-- 🌱 I’m currently learning unity engine
-- 💞️ I’m looking to collaborate on unity projects
+- 👀 I’m interested in business analytics and vector graphics
+- 🌱 I’m currently learning sql, python, excel and linux
+- 💞️ I’m looking to collaborate on anything python involved!!
 
 <!---
 FilipPietryga/FilipPietryga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
