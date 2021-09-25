@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @FilipPietryga
-- 👀 I’m interested in business analytics and vector graphics
-- 🌱 I’m currently learning sql, python, excel and linux
-- 💞️ I’m looking to collaborate on anything python involved!!
+I'm a 21 year old computer science student and future data scientist also interested in cybersecurity and game development.
+
+My projects include a wide array of languages such as 
+  - Python 
+  - Javascript
+  - C++
+
+Functional programming is one of my newest obsessions.
 
 <!---
 FilipPietryga/FilipPietryga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
