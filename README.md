@@ -1,4 +1,4 @@
-I'm a 21 year old computer science student and i-hope-so future data scientist also interested in cybersecurity and game development.
+I'm a 21 year old computer science student and I-hope-so future data scientist also interested in cybersecurity and game development.
 
 My projects include a wide array of languages such as 
   - Python 
