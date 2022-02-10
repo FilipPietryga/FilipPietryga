@@ -11,7 +11,7 @@ My projects include a wide array of languages such as
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username="Filip Pietryga"&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Filip Pietryga"&style=flat-square&color=blue" alt=""/>
 
 <!---
 FilipPietryga/FilipPietryga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
