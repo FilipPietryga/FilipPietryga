@@ -1,11 +1,21 @@
-I'm a 21 year old computer science student and I-hope-so future data scientist also interested in cybersecurity and game development.
+💻 I'm a 22 year old computer science student and future data scientist! 🧑‍💻
 
 My projects include a wide array of languages such as 
   - Python 
   - Javascript
   - C++
 
-Functional programming is one of my newest obsessions.
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!---
 FilipPietryga/FilipPietryga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
