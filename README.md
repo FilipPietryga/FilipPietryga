@@ -38,7 +38,8 @@ My projects include a wide array of technologies, such as
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipPietryga)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipPietryga)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipPietryga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
