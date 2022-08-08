@@ -1,4 +1,4 @@
-💻 I'm a 21 year old computer science student and future Data Scientist! 🧑‍💻
+💻 I'm a 21 year old computer science student and aspiring IT generalist! 🧑‍💻
 
 My projects include a wide array of technologies, such as  
   - Javascript/Typescript with React Technology and the entire Front-End Stack (HTML, CSS, SASS, Libraries etc.) 
@@ -9,7 +9,7 @@ My projects include a wide array of technologies, such as
  Graphics Processing since 2022 as Internships utilizing technologies such as React and C++.
  
  Apart from that I am interested in scientific fields such as Social Sciences (Postmodern Sociology and Behavioral Economy),
- Philosophy (mostly Informal Logic and Classical Aesthetics).
+ Philosophy (mostly Informal Logic, Classical Aesthetics and Poststructuralism).
  
  I would like to study Applied Mathematics in the nearest future, so I can be a better programmer and gain some knowledge from social fields.
 
@@ -23,11 +23,7 @@ My projects include a wide array of technologies, such as
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
 
-</br>
-
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="linkedin"/>
-
-</br>
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,8 +33,7 @@ My projects include a wide array of technologies, such as
 
 </br>
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 </br>
 
