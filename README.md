@@ -11,7 +11,7 @@ My projects include a wide array of technologies, such as
  Apart from that I am interested in scientific fields such as Social Sciences (Postmodern Sociology and Behavioral Economy),
  Philosophy (mostly Informal Logic, Classical Aesthetics and Poststructuralism).
  
- I would like to study Applied Mathematics in the nearest future, so I can be a better programmer and gain some knowledge from social fields.
+ I would like to study Applied Mathematics and Philosophy in the nearest future, so I can be a better programmer and gain some knowledge from social fields.
 <div id="badges">
   <a href="https://www.linkedin.com/in/Filomena-pietryga-1b9954186"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
