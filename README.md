@@ -17,9 +17,9 @@ My projects include a wide array of technologies, such as
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div></br>
-<img src="https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue" alt="linkedin" style="display:inline"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="display:inline"/>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="display:inline"/>
+<img src="https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue" alt="linkedin" style="display:inline;"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="display:inline;"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="display:inline;"/>
 
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="linkedin"/>
 
