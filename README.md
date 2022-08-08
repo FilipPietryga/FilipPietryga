@@ -19,7 +19,15 @@ My projects include a wide array of technologies, such as
   </a>
 </div></br>
 
-<img src="https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue" alt="linkedin"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+
+</br>
+
+<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="linkedin"/>
+
+</br>
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,6 +41,8 @@ My projects include a wide array of technologies, such as
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 </br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipPietryga)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
