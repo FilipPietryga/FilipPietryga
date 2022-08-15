@@ -18,7 +18,9 @@ I would like to study Applied Mathematics and Philosophy in the nearest future, 
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue)
+
+<br>
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,6 +29,7 @@ I would like to study Applied Mathematics and Philosophy in the nearest future, 
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
+![](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipPietryga)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipPietryga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
