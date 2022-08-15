@@ -12,16 +12,12 @@ Apart from that I am interested in scientific fields such as Social Sciences (Po
 Philosophy (mostly Informal Logic, Classical Aesthetics and Poststructuralism).
  
 I would like to study Applied Mathematics and Philosophy in the nearest future, so I can be a better programmer and gain some knowledge from social fields.
-<div id="badges">
-  <a href="https://www.linkedin.com/in/Filomena-pietryga-1b9954186"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div></br>
 
-![](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue) ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))  ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![]([https:](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))  ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="linkedin"/>
-
+![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
