@@ -11,7 +11,7 @@ Graphics Processing since 2022 as Internships utilizing technologies such as Rea
 Apart from that I am interested in scientific fields such as Social Sciences (Postmodern Sociology and Behavioral Economy),
 Philosophy (mostly Informal Logic, Classical Aesthetics and Poststructuralism).
  
-I would like to study Applied Mathematics and Philosophy in the nearest future, so I can be a better programmer and gain some knowledge from social fields.
+I would like to study Applied Mathematics and Philosophy in the nearest future, so I can be a better programmer and gain some knowledge from social fields.<br>
 
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-pietryga-1b9954186/)
