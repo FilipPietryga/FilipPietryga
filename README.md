@@ -35,8 +35,6 @@ I would like to study Applied Mathematics and Philosophy in the nearest future, 
 ![](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=filipplaylistowner5954&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <!---
 FilipPietryga/FilipPietryga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
