@@ -18,7 +18,7 @@ I would like to study Applied Mathematics and Philosophy in the nearest future, 
   </a>
 </div></br>
 
-![]([https://...Dark.png](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue))  |  ![]([https://...Ocean.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)) | ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![]([https://...Dark.png](https://komarev.com/ghpvc/?username=FilipPietryga&style=flat-square&color=blue)) ![]([https://...Ocean.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)) ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="linkedin"/>
 
