@@ -1,4 +1,4 @@
-💻 I'm a 21 year old computer science student and aspiring IT generalist! 🧑‍💻
+💻 I'm a 23 year old computer science student and aspiring IT generalist! 🧑‍💻
 
 My projects include a wide array of technologies, such as  
   - Javascript/Typescript with React Technology and the entire Front-End Stack (HTML, CSS, SASS, Libraries etc.) 
