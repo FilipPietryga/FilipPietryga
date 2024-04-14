@@ -1,4 +1,4 @@
-💻 I'm a 23 year old computer science student and aspiring IT generalist! 🧑‍💻
+💻 I'm a 23 year old computer science masters student who specializes in software engineering! 🧑‍💻
 
 My projects include a wide array of technologies, such as  
   - Javascript/Typescript with React Technology and the entire Front-End Stack (HTML, CSS, SASS, Libraries etc.) 
@@ -12,7 +12,6 @@ Apart from that I am interested in scientific fields such as Social Sciences (Po
 Philosophy (mostly Informal Logic, Classical Aesthetics and Poststructuralism).
  
 I would like to study Applied Mathematics and Philosophy in the nearest future, so I can be a better programmer and gain some knowledge from social fields.<br>
-
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-pietryga-1b9954186/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=filippatrykpietryga@gmail.com&tf=cm)
